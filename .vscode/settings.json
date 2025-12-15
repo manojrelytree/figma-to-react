@@ -1,0 +1,7 @@
+{
+    // Editor settings
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  }
+  
